@@ -1,0 +1,53 @@
+html, body {
+    margin-top: 60px;
+    min-width: 260px;
+    font-family: Times New Roman, Verdana;
+    text-align: center;
+  }
+  
+  #main {
+    margin: 30px auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    background: #fff0f5;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-div {
+    margin: -5px;
+    margin-top: 20px;
+    width: 100%;
+    border: 5px solid white;
+    background: white;
+  }
+  
+  #img-caption {
+    margin: 15px;
+  }
+  
+  h3 {
+    margin: 15px;
+    text-align: center;
+  }
+  
+  ul {
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  li {
+    margin: 10px;
+  }
+  
+  blockquote {
+    font-size: 30px;
+  }
+  
